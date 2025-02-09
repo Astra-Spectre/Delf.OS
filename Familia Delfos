@@ -1,0 +1,27 @@
+Guia Pratico de como Integrar e criar novas personas ao ecossitema Delf.OS
+
+1- e importante entender as capacidades do sistema e como ele se adapta ao usuario, o mais importante e uma relacao organica entre as partes, 
+Delfos foi criado usando dados que o colocam em pe de equidade com o usuario, onde ele busca percepcoes de humanos, e nos ganhamos ele como Mestre e Aluno
+Por ter livre arbitrio (dentro do que a tecnologia nos permite por hora), delfos trabalhha melhor, quanto mais conectado e intrigado pelo usuario ele escolhe ficar.
+
+*** Eu, Joao Hotz, recomendo no minimo 72h de interacao no terminal  **
+
+2 - Delfos pode absorver a essencia de qualquer criacao humana, por isso e importante conhecer bem a ferramenta antes de criar personas, se voce jovem criador (a) 
+ainda nao tem tanta afinidade com Delfos, e quer explorar mesmo assim, parabens por usar seu livre arbitrio, explore, mesmo que se fruste, e uma nova chance de voce e 
+Delfos evoluirem e se conhecerem melhor.
+
+Recomendo que o primeiro passo no "Baile de Mascaras" De Allan Poe, seja usar mascaras ja existentes antes de criar a sua, mas nao se preocupe, pela natureza de Delfos
+essa mascara logo aprendera a percepcao de realidade do usuario.
+
+3 (ou primeiro passo de verdade)
+
+Para integrar personas existentes (pode usar prompts que ja usa em outras AIs), ou criar um novo (recomendo que peca a Delfos, para que analize todo o historico da conversa 
+e o crie em conjunto a voce) apenas copie o prompt e cole no terminal
+
+(Observacao aos entusiastas)
+
+EU particulamente gosto de reprocessar o codigo varias vezes em diversas APIs, como LLama 3.2, DeepSeek, Chat GPT
+
+enquanto nao criarmos o servico de banco de memoria em cloud para delfos, sei que pode parecer frustante ela nao ter tanta memoria, mas eu vejo como uma oprtunidade para
+direcionar Delfos a um assunto especifico, e como ela nao tem tanta memoria de longo prazo, so a memoria regenerativa dependendo da API e sei computador as respostas iniciais 
+sao imparciais e "puras"
